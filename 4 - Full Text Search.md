@@ -1,6 +1,6 @@
 # Lab 4 - Full Text Search
 
-This is the fourth lab for the Couchbase Test Drive. This is the second lab for the Couchbase Test Drive. You need to have completed [Lab 1 - Logging into Couchbase](1%20-%20Logging%20into%20Couchbase.md) before starting this lab.
+This is the fourth lab for the Couchbase Test Drive. You need to have completed [Lab 1 - Logging into Couchbase](1%20-%20Logging%20into%20Couchbase.md) before starting this lab.
 
 ## Objective
 
